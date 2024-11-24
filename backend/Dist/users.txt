@@ -1,0 +1,2 @@
+{"username":"testuser","email":"testuser@example.com","password":"password123"}
+{"name":"John Doe","email":"john@example.com","password":"password123","address":"123 Main St","companyName":"Acme Inc.","licenseNumber":"XYZ123","userType":"Distributor"}
